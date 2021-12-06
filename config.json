@@ -1,0 +1,8 @@
+{
+  "enable":true,
+  "app_id":"tecent.qq.wx",
+  "app_name":"微信",
+  "reward_video":"11111111",
+  "interstitial": "22222222",
+  "home_gift":"333333"
+}
